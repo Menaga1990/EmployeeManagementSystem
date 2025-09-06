@@ -16,7 +16,7 @@ This project demonstrates **CRUD operations (Create, Read, Update, Delete)** wit
 ---
 
 ## 🛠️ Technologies Used
-- **ASP.NET Core MVC 6**
+- **ASP.NET Core MVC 8**
 - **C#**
 - **MySQL** (Stored Procedures)
 - **jQuery & AJAX**
@@ -26,4 +26,4 @@ This project demonstrates **CRUD operations (Create, Read, Update, Delete)** wit
 
 ---
 
-## 📂 Project Structure
+
