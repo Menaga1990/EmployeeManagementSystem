@@ -26,4 +26,8 @@ This project demonstrates **CRUD operations (Create, Read, Update, Delete)** wit
 
 ---
 
+### Instructions
+-SQL queries added in the SQL folder which is in project solution itself.
+-Tables,Procedures are available in that files.kindly refer it.
+
 
