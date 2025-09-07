@@ -1,5 +1,6 @@
 ﻿$(document).ready(function () {
     var table = $('#employeeTable').DataTable({
+        processing: true, 
         ajax: {
             url: '/Employees/GetAll',
             dataSrc: 'data'
